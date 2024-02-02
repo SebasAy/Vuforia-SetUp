@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Proyector_aumentada" size="0.300000 0.477854" />
+    <ImageTarget name="Periodico_aumentada" size="0.300000 0.477854" />
+    <ImageTarget name="Musica_aumentada" size="0.300000 0.477854" />
+    <ImageTarget name="Petroglifos_aumentada" size="0.300000 0.477854" />
+    <ImageTarget name="Maquina-coser-codigo" size="0.300000 0.477854" />
+    <ImageTarget name="Campanas-codigo" size="0.300000 0.477854" />
+    <ImageTarget name="Agua-codigo-" size="0.300000 0.477854" />
+  </Tracking>
+</QCARConfig>
